@@ -21,8 +21,6 @@ Predict future sales revenue using past sales data.
 
 ## Output
 Graph comparing actual and predicted sales revenue.
-
-## Screenshot
 ![Sales Forecasting Output](output.png)
 
 ## Author
